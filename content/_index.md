@@ -4,7 +4,24 @@ title: "Haozhen Zhang's Homepage"
 
 # 👨‍💻 **About Me** {#about-me}
 
-intro
+I’m an incoming Ph.D. student in Computer Science at Nanyang Technological University (NTU), fortunate to be advised by Prof. [Wenya Wang](https://personal.ntu.edu.sg/wangwy/).
+Prior to this, I received my B.Eng. in Software Engineering from Tianjin University (TJU) and M.Eng. in Computer Science from Tsinghua University (THU).
+
+Along the way, I’ve been fortunate to work with some amazing researchers and mentors.
+I worked as a remote research intern at University of Illinois Urbana-Champaign (UIUC) with Prof. [Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/), which turned out to be one of the most rewarding and enjoyable experiences I've had.
+I also interned as a research assistant at The Hong Kong University of Science and Technology (HKUST-GZ), where I had the pleasure of collaborating with Prof. [Chengwei Qin](https://qcwthu.github.io/).
+In addition, I spent over a year as a research intern at Microsoft Research Asia (MSRA).
+
+
+
+**Research Interests**: My early research mainly focused on Graph Data Mining and AI4Sec, and you may find some of my representative work here: [TFE-GNN@WWW'23](https://arxiv.org/abs/2307.16713), [TGSL@CIKM'23](https://arxiv.org/abs/2306.07699), and [MH-Net@AAAI'25](https://arxiv.org/abs/2501.03279). 
+
+
+🔍 Currently, I’m focusing on **Large Language Models (LLMs)** and their synergy with **Graphs**. Some of my recent works include: [GoR@ACL'25 Main](https://arxiv.org/abs/2410.11001), [Router-R1](), and [FusionBench]().
+
+
+
+📬 <span style="color:red">Feel free to reach out via wazhz14[AT]gmail.com — I’m always open to discussion and collaboration!</span>
 
 
 
