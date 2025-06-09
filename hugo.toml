@@ -76,7 +76,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
     icon = "fab fa-google-scholar"
   [[params.social]]
     name = "email"
-    url = "mailto:wazhz14@gmail.com"
+    url = "mailto:wazhz14 [AT] gmail [DOT] com"
     icon = "fas fa-envelope"
   [[params.social]]
     name = "linkedin"
