@@ -18,7 +18,7 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 
 🔍 Currently, I’m focusing on **Large Language Models (LLMs)** and their synergy with **Graphs**. Some of my recent works include: <a href="https://arxiv.org/abs/2410.11001" target="_blank" rel="noopener noreferrer">GoR@ACL'25 Main</a>
-, <a href="" target="_blank" rel="noopener noreferrer">Router-R1</a>, and <a href="" target="_blank" rel="noopener noreferrer">FusionBench</a>.
+, <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer">Router-R1</a>, and <a href="" target="_blank" rel="noopener noreferrer">FusionBench</a>.
 
 
 
@@ -32,7 +32,7 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 <div style="max-height: 300px; overflow-y: auto; padding-right: 10px; border-left: 3px solid #f90; background-color: rgba(255, 255, 255, 0.7); padding: 10px; border-radius: 6px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);">
 
-  <p><strong>[2025.06]</strong> &nbsp;🎉🎉 <a href="https://github.com/ulab-uiuc/Router-R1" target="_blank" rel="noopener noreferrer"><strong>Router-R1</strong></a> was released, offering a cost-effective and adaptable solution for dynamic LLM routing.</p>
+  <p><strong>[2025.06]</strong> &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer"><strong>Router-R1</strong></a> was released, offering a cost-effective and adaptable solution for dynamic LLM routing.</p>
 
   <p><strong>[2025.05]</strong> &nbsp;🎉🎉 One paper (<a href="https://arxiv.org/abs/2410.11001" target="_blank" rel="noopener noreferrer"><strong>GoR</strong></a>) was accepted by <strong>ACL 2025 Main</strong>.</p>
   
@@ -52,8 +52,8 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 - **Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning** <br>
   <i>**Haozhen Zhang**, Tao Feng, and Jiaxuan You</i> <br>
-  arXiv xxxx.xxxxx, 2025 <br>
-  <a href="https://arxiv.org/abs/xxxx.xxxxx" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ulab-uiuc/Router-R1" target="_blank" rel="noopener noreferrer">[Code]</a>
+  arXiv 2506.09033, 2025 <br>
+  <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ulab-uiuc/Router-R1" target="_blank" rel="noopener noreferrer">[Code]</a>
 
 
 
