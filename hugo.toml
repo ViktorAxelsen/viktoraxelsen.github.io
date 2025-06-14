@@ -1,5 +1,5 @@
 baseURL = 'https://viktoraxelsen.github.io/'
-title = "Haozhen Zhang's Homepage"
+title = "Haozhen Zhang - CS Ph.D. at NTU"
 
 # multi-language support
 defaultContentLanguage = 'en'
@@ -18,7 +18,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
   [languages.en]
     languageName = 'English'
     weight = 1
-    title = "Haozhen Zhang's Homepage"
+    title = "Haozhen Zhang - CS Ph.D. at NTU"
 
     [languages.en.params]
       author = "Haozhen Zhang"
@@ -84,7 +84,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
     icon = "fab fa-linkedin"
   [[params.social]]
     name = "Twitter"
-    url = "https://twitter.com/"
+    url = "https://x.com/haozhen_ntu"
     icon = "fab fa-twitter"
 
 [build]

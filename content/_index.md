@@ -1,5 +1,6 @@
 ---
-title: "Haozhen Zhang's Homepage"
+title: "Haozhen Zhang - CS Ph.D. at NTU"
+description: "CS Ph.D. student at Nanyang Technological University (NTU). Focusing on Large Language Models (LLMs) and their synergy with Graphs"
 ---
 
 # 👨‍💻 **About Me** {#about-me}
