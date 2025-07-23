@@ -129,6 +129,8 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 - Reviewer:
 
+  + AAAI 2026
+
   + NeurIPs 2025
 
   + KDD 2024, ICLR 2024
