@@ -5,7 +5,7 @@ description: "CS Ph.D. student at Nanyang Technological University (NTU). Focusi
 
 # 👨‍💻 **About Me** {#about-me}
 
-I’m an incoming Ph.D. student in Computer Science at Nanyang Technological University (NTU), fortunate to be advised by Prof. <a href="https://personal.ntu.edu.sg/wangwy/" target="_blank" rel="noopener noreferrer">Wenya Wang</a>.
+I’m currently a first-year Ph.D. student in Computer Science at Nanyang Technological University (NTU), fortunate to be advised by Prof. <a href="https://personal.ntu.edu.sg/wangwy/" target="_blank" rel="noopener noreferrer">Wenya Wang</a>.
 Prior to this, I received my B.Eng. in Software Engineering from Tianjin University (TJU) and M.Eng. in Computer Science from Tsinghua University (THU).
 
 Along the way, I’ve been fortunate to work with some amazing researchers and mentors.
@@ -19,7 +19,7 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 
 🔍 Currently, I’m focusing on **Large Language Models (LLMs)** and their synergy with **Graphs**. Some of my recent works include: <a href="https://arxiv.org/abs/2410.11001" target="_blank" rel="noopener noreferrer">GoR@ACL'25 Main</a>
-, <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer">Router-R1</a>, and <a href="https://arxiv.org/abs/2507.10540" target="_blank" rel="noopener noreferrer">FusionBench</a>.
+, <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer">Router-R1@NeurIPS'25</a>, and <a href="https://arxiv.org/abs/2507.10540" target="_blank" rel="noopener noreferrer">FusionBench</a>.
 
 
 
@@ -32,6 +32,11 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 
 <div style="max-height: 300px; overflow-y: auto; padding-right: 10px; border-left: 3px solid #f90; background-color: rgba(255, 255, 255, 0.7); padding: 10px; border-radius: 6px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);">
+
+  <p><strong>[2025.09]</strong> &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer"><strong>Router-R1</strong></a> was accepted by <strong>NeurIPS 2025</strong>. See you in San Diego!</p>
+
+  <p><strong>[2025.09]</strong> &nbsp;🎉🎉 <strong>AcademicEval</strong> was accepted by <strong>TMLR</strong>! The arXiv version, Code, and datasets will be released soon.</p>
+
 
   <p><strong>[2025.07]</strong> &nbsp;🎉🎉 Introducing <a href="https://arxiv.org/abs/2507.10540" target="_blank" rel="noopener noreferrer"><strong>FusionBench</strong></a>: a systematic framework for fusing LLM capabilities from routing data across query, thought, and model levels.</p>
 
@@ -62,18 +67,24 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
   <a href="https://arxiv.org/abs/2507.10540" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ulab-uiuc/FusionFactory" target="_blank" rel="noopener noreferrer">[Code]</a>
 
 
-- **Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning** <br>
-  <i>**Haozhen Zhang**, Tao Feng, and Jiaxuan You</i> <br>
-  arXiv 2506.09033, 2025 <br>
-  <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ulab-uiuc/Router-R1" target="_blank" rel="noopener noreferrer">[Code]</a>
 
+### **Journal**
 
-
+- **AcademicEval: Live Long-Context LLM Benchmark** <br>
+  <i>**Haozhen Zhang**, Tao Feng, Pengrui Han, and Jiaxuan You</i> <br>
+  Transactions on Machine Learning Research (**TMLR**), 2025 <br>
+  <a href="" target="_blank" rel="noopener noreferrer">[arXiv - Coming Soon]</a>&nbsp;&nbsp;&nbsp;<a href="" target="_blank" rel="noopener noreferrer">[Code - Coming Soon]</a>
 
 
 
 
 ### **Conference**
+
+
+- **Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning** <br>
+  <i>**Haozhen Zhang**, Tao Feng, and Jiaxuan You</i> <br>
+  The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025 <br>
+  <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ulab-uiuc/Router-R1" target="_blank" rel="noopener noreferrer">[Code]</a>
 
 
 - **Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs** <br>
