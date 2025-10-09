@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
 
     [languages.en.params]
       author = "Haozhen Zhang"
-      description = "CS Ph.D. student at Nanyang Technological University (NTU) <br><br> Focusing on **Large Language Models (LLMs)** and their synergy with **Graphs**"
+      description = "CS Ph.D. student at Nanyang Technological University (NTU) <br><br> Focusing on **LLM/Agent Memory** & **Routers** and their synergy with **Graphs**"
       motto = "**Done is better than perfect**"
     
     [[languages.en.menu.main]]

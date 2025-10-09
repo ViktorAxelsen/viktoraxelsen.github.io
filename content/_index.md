@@ -18,8 +18,8 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 **Research Interests**: My early research mainly focused on Graph Data Mining and AI4Sec, and you may find some of my representative work here: <a href="https://arxiv.org/abs/2307.16713" target="_blank" rel="noopener noreferrer">TFE-GNN@WWW'23</a>, <a href="https://arxiv.org/abs/2306.07699" target="_blank" rel="noopener noreferrer">TGSL@CIKM'23</a>, and <a href="https://arxiv.org/abs/2501.03279" target="_blank" rel="noopener noreferrer">MH-Net@AAAI'25</a>. 
 
 
-🔍 Currently, I’m focusing on **Large Language Models (LLMs)** and their synergy with **Graphs**. Some of my recent works include: <a href="https://arxiv.org/abs/2410.11001" target="_blank" rel="noopener noreferrer">GoR@ACL'25 Main</a>
-, <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer">Router-R1@NeurIPS'25</a>, and <a href="https://arxiv.org/abs/2507.10540" target="_blank" rel="noopener noreferrer">FusionBench</a>.
+🔍 Currently, I’m focusing on **LLM/Agent Memory** & **Routers** and their synergy with **Graphs**. Some of my recent works include: <a href="https://arxiv.org/abs/2410.11001" target="_blank" rel="noopener noreferrer">GoR@ACL'25 Main</a>
+, <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer">Router-R1@NeurIPS'25</a>, and <a href="https://arxiv.org/abs/2507.10540" target="_blank" rel="noopener noreferrer">FusionFactory</a>.
 
 
 
@@ -38,7 +38,7 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
   <p><strong>[2025.09]</strong> &nbsp;🎉🎉 <strong>AcademicEval</strong> was accepted by <strong>TMLR</strong>! The arXiv version, Code, and datasets will be released soon.</p>
 
 
-  <p><strong>[2025.07]</strong> &nbsp;🎉🎉 Introducing <a href="https://arxiv.org/abs/2507.10540" target="_blank" rel="noopener noreferrer"><strong>FusionBench</strong></a>: a systematic framework for fusing LLM capabilities from routing data across query, thought, and model levels.</p>
+  <p><strong>[2025.07]</strong> &nbsp;🎉🎉 Introducing <a href="https://arxiv.org/abs/2507.10540" target="_blank" rel="noopener noreferrer"><strong>FusionFactory</strong></a>: a systematic framework for fusing LLM capabilities from routing data across query, thought, and model levels.</p>
 
 
   <p><strong>[2025.06]</strong> &nbsp;🎉🎉 Released <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer"><strong>Router-R1</strong></a>: an RL-driven, multi-round LLM router that balances accuracy, cost, and efficiency.</p>
@@ -61,7 +61,7 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 ### **Preprints**
 
 
-- **Fusing LLM Capabilities with Routing Data** <br>
+- **FusionFactory: Fusing LLM Capabilities with Multi-LLM Log Data** <br>
   <i>Tao Feng*, **Haozhen Zhang***, Zijie Lei, Pengrui Han, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro, and Jiaxuan You</i> <br>
   arXiv 2507.10540, 2025 <br>
   <a href="https://arxiv.org/abs/2507.10540" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ulab-uiuc/FusionFactory" target="_blank" rel="noopener noreferrer">[Code]</a>
@@ -94,25 +94,41 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 
 
-- **Revolutionizing Encrypted Traffic Classification with MH-Net: A Multi-View Heterogeneous Graph Model** <br>
+
+
+
+
+
+
+
+<!-- 放在 Conference 列表的末尾，把最后三篇折叠起来 -->
+<details>
+  <summary><strong>Master’s-stage work (click to expand)</strong></summary>
+  <br>
+
+  - **Revolutionizing Encrypted Traffic Classification with MH-Net: A Multi-View Heterogeneous Graph Model** <br>
   <i>**Haozhen Zhang***, Haodong Yue*, Xi Xiao, Le Yu, Qing Li, Zhen Ling, and Ye Zhang</i> <br>
   The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025 <br>
   <a href="https://arxiv.org/abs/2501.03279" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ViktorAxelsen/MH-Net" target="_blank" rel="noopener noreferrer">[Code]</a>
 
+  <br>
 
-
-- **Time-aware Graph Structure Learning via Sequence Prediction on Temporal Graphs** <br>
+  - **Time-aware Graph Structure Learning via Sequence Prediction on Temporal Graphs** <br>
   <i>**Haozhen Zhang**, Xueting Han, Xi Xiao, and Jing Bai</i> <br>
   International Conference on Information and Knowledge Management (**CIKM**), 2023 <br>
   <a href="https://arxiv.org/abs/2306.07699" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ViktorAxelsen/TGSL" target="_blank" rel="noopener noreferrer">[Code]</a>
 
+  <br>
 
-
-- **TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Traffic Classification** <br>
+  - **TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Traffic Classification** <br>
   <i>**Haozhen Zhang**, Le Yu, Xi Xiao, Qing Li, Francesco Mercaldo, Xiapu Luo, and Qixu Liu</i> <br>
   The Web Conference (**WWW**), 2023 <br>
   <a href="https://arxiv.org/abs/2307.16713" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ViktorAxelsen/TFE-GNN" target="_blank" rel="noopener noreferrer">[Code]</a>
   <!-- <a href="https://arxiv.org/abs/2307.16713" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2307.16713-b31b1b.svg?style=flat-square" alt="Arxiv-2307.16713"/></a><a href="https://github.com/ViktorAxelsen/TFE-GNN" class="no-trailing-icon"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ViktorAxelsen/TFE-GNN?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=black"></a> -->
+</details>
+
+
+
 
 
 
