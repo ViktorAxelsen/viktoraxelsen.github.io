@@ -15,7 +15,8 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 
 
-**Research Interests**: My early research mainly focused on Graph Data Mining and AI4Sec, and you may find some of my representative work here: <a href="https://arxiv.org/abs/2307.16713" target="_blank" rel="noopener noreferrer">TFE-GNN@WWW'23</a>, <a href="https://arxiv.org/abs/2306.07699" target="_blank" rel="noopener noreferrer">TGSL@CIKM'23</a>, and <a href="https://arxiv.org/abs/2501.03279" target="_blank" rel="noopener noreferrer">MH-Net@AAAI'25</a>. 
+**Research Interests**: My early research mainly focused on Graph Data Mining, and you may find some of my representative work here: <a href="https://arxiv.org/abs/2307.16713" target="_blank" rel="noopener noreferrer">TFE-GNN@WWW'23</a>, <a href="https://arxiv.org/abs/2306.07699" target="_blank" rel="noopener noreferrer">TGSL@CIKM'23</a>, and <a href="https://arxiv.org/abs/2501.03279" target="_blank" rel="noopener noreferrer">MH-Net@AAAI'25</a>.
+
 
 
 🔍 Currently, I’m focusing on **LLM/Agent Memory** & **Routers** and their synergy with **Graphs**. Some of my recent works include: <a href="https://arxiv.org/abs/2410.11001" target="_blank" rel="noopener noreferrer">GoR@ACL'25 Main</a>
@@ -35,7 +36,7 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
   <p><strong>[2025.09]</strong> &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer"><strong>Router-R1</strong></a> was accepted by <strong>NeurIPS 2025</strong>. See you in San Diego!</p>
 
-  <p><strong>[2025.09]</strong> &nbsp;🎉🎉 <strong>AcademicEval</strong> was accepted by <strong>TMLR</strong>! The arXiv version, Code, and datasets will be released soon.</p>
+  <p><strong>[2025.09]</strong> &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2510.17725" target="_blank" rel="noopener noreferrer"><strong>AcademicEval</strong></a> was accepted by <strong>TMLR</strong>.</p>
 
 
   <p><strong>[2025.07]</strong> &nbsp;🎉🎉 Introducing <a href="https://arxiv.org/abs/2507.10540" target="_blank" rel="noopener noreferrer"><strong>FusionFactory</strong></a>: a systematic framework for fusing LLM capabilities from routing data across query, thought, and model levels.</p>
@@ -73,7 +74,7 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 - **AcademicEval: Live Long-Context LLM Benchmark** <br>
   <i>**Haozhen Zhang**, Tao Feng, Pengrui Han, and Jiaxuan You</i> <br>
   Transactions on Machine Learning Research (**TMLR**), 2025 <br>
-  <a href="" target="_blank" rel="noopener noreferrer">[arXiv - Coming Soon]</a>&nbsp;&nbsp;&nbsp;<a href="" target="_blank" rel="noopener noreferrer">[Code - Coming Soon]</a>
+  <a href="https://arxiv.org/abs/2510.17725" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ulab-uiuc/AcademicEval" target="_blank" rel="noopener noreferrer">[Code]</a>
 
 
 
