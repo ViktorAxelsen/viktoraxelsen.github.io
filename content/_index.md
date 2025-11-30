@@ -125,6 +125,10 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
   <i>**Haozhen Zhang**, Le Yu, Xi Xiao, Qing Li, Francesco Mercaldo, Xiapu Luo, and Qixu Liu</i> <br>
   The Web Conference (**WWW**), 2023 <br>
   <a href="https://arxiv.org/abs/2307.16713" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ViktorAxelsen/TFE-GNN" target="_blank" rel="noopener noreferrer">[Code]</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  🏆 <strong><span style="color:#d32f2f;">100+ Citations</span></strong>
+  &nbsp;&nbsp;&nbsp;
+  ⭐ <strong><span style="color:#d32f2f;">100+ GitHub Stars</span></strong>
   <!-- <a href="https://arxiv.org/abs/2307.16713" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2307.16713-b31b1b.svg?style=flat-square" alt="Arxiv-2307.16713"/></a><a href="https://github.com/ViktorAxelsen/TFE-GNN" class="no-trailing-icon"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ViktorAxelsen/TFE-GNN?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=black"></a> -->
 </details>
 
