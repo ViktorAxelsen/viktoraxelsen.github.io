@@ -20,7 +20,7 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 
 🔍 Currently, I’m focusing on **LLM/Agent Memory** & **Routers** and their synergy with **Graphs**. Some of my recent works include: <a href="https://arxiv.org/abs/2410.11001" target="_blank" rel="noopener noreferrer">GoR@ACL'25 Main</a>
-, <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer">Router-R1@NeurIPS'25</a>, and <a href="https://arxiv.org/abs/2507.10540" target="_blank" rel="noopener noreferrer">FusionFactory</a>.
+, <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer">Router-R1@NeurIPS'25</a>, <a href="https://arxiv.org/abs/2507.10540" target="_blank" rel="noopener noreferrer">FusionFactory</a>, and <a href="https://github.com/ulab-uiuc/LLMRouter" target="_blank" rel="noopener noreferrer">LLMRouter</a>.
 
 
 
@@ -33,6 +33,9 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 
 <div style="max-height: 300px; overflow-y: auto; padding-right: 10px; border-left: 3px solid #f90; background-color: rgba(255, 255, 255, 0.7); padding: 10px; border-radius: 6px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);">
+
+  <p><strong>[2025.12]</strong> &nbsp;🚀🚀 Open-sourced <a href="https://github.com/ulab-uiuc/LLMRouter" target="_blank" rel="noopener noreferrer"><strong>LLMRouter</strong></a>, a unified and extensible framework for training, evaluating, and benchmarking single-round, multi-round, agentic, and personalized LLM routers. <strong>LLMRouter</strong> is designed to reduce duplicated engineering effort, enable fair comparison across routing methods, and foster community-driven development. We warmly welcome contributions and integrations from the community!</p>
+
 
   <p><strong>[2025.09]</strong> &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer"><strong>Router-R1</strong></a> was accepted by <strong>NeurIPS 2025</strong>. See you in San Diego!</p>
 
@@ -86,7 +89,8 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
   <i>**Haozhen Zhang**, Tao Feng, and Jiaxuan You</i> <br>
   The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025 <br>
   <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ulab-uiuc/Router-R1" target="_blank" rel="noopener noreferrer">[Code]</a>
-
+  &nbsp;&nbsp;&nbsp;
+  ⭐ <strong><span style="color:#d32f2f;">100+ GitHub Stars</span></strong>
 
 - **Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs** <br>
   <i>**Haozhen Zhang**, Tao Feng, and Jiaxuan You</i> <br>
@@ -131,6 +135,20 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
   ⭐ <strong><span style="color:#d32f2f;">100+ GitHub Stars</span></strong>
   <!-- <a href="https://arxiv.org/abs/2307.16713" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2307.16713-b31b1b.svg?style=flat-square" alt="Arxiv-2307.16713"/></a><a href="https://github.com/ViktorAxelsen/TFE-GNN" class="no-trailing-icon"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ViktorAxelsen/TFE-GNN?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=black"></a> -->
 </details>
+
+
+
+
+
+
+# 🧩 **Open-source Projects** {#opensource}
+
+
+- **LLMRouter: A Unified Framework for LLM Routing** <br>
+  <i>Tao Feng, **Haozhen Zhang**, Zijie Lei, Haodong Yue, Chongshan Lin, and Jiaxuan You</i> <br>
+  A unified and extensible framework for training, evaluating, and benchmarking single-round, multi-round, agentic, and personalized LLM routers. LLMRouter aims to reduce duplicated engineering effort, enable fair comparison across routing methods, and foster community-driven development of LLM routing systems. <br>
+  <a href="https://github.com/ulab-uiuc/LLMRouter" target="_blank" rel="noopener noreferrer">[GitHub]</a>&nbsp;&nbsp;&nbsp;<a href="https://ulab-uiuc.github.io/LLMRouter/" target="_blank" rel="noopener noreferrer">[Project Page]</a>
+
 
 
 
