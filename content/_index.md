@@ -148,7 +148,7 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
   A unified and extensible framework for training, evaluating, and benchmarking single-round, multi-round, agentic, and personalized LLM routers. LLMRouter aims to reduce duplicated engineering effort, enable fair comparison across routing methods, and foster community-driven development of LLM routing systems. <br>
   <a href="https://github.com/ulab-uiuc/LLMRouter" target="_blank" rel="noopener noreferrer">[GitHub]</a>&nbsp;&nbsp;&nbsp;<a href="https://ulab-uiuc.github.io/LLMRouter/" target="_blank" rel="noopener noreferrer">[Project Page]</a>
   &nbsp;&nbsp;&nbsp;
-  ⭐ <strong><span style="color:#d32f2f;">600+ GitHub Stars</span></strong>
+  ⭐ <strong><span style="color:#d32f2f;">700+ GitHub Stars</span></strong>
 
 
 
