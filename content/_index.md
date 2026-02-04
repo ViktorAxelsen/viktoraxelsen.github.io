@@ -20,7 +20,7 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 
 🔍 Currently, I’m focusing on **LLM/Agent Memory** & **Routers** and their synergy with **Graphs**. Some of my recent works include: <a href="https://arxiv.org/abs/2410.11001" target="_blank" rel="noopener noreferrer">GoR@ACL'25 Main</a>
-, <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer">Router-R1@NeurIPS'25</a>, <a href="https://arxiv.org/abs/2507.10540" target="_blank" rel="noopener noreferrer">FusionFactory</a>, and <a href="https://github.com/ulab-uiuc/LLMRouter" target="_blank" rel="noopener noreferrer">LLMRouter</a>.
+, <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer">Router-R1@NeurIPS'25</a>, <a href="https://arxiv.org/abs/2507.10540" target="_blank" rel="noopener noreferrer">FusionFactory</a>, <a href="https://github.com/ulab-uiuc/LLMRouter" target="_blank" rel="noopener noreferrer">LLMRouter</a>, and <a href="https://arxiv.org/abs/2602.02474" target="_blank" rel="noopener noreferrer">MemSkill</a>.
 
 
 
@@ -33,6 +33,8 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 
 <div style="max-height: 300px; overflow-y: auto; padding-right: 10px; border-left: 3px solid #f90; background-color: rgba(255, 255, 255, 0.7); padding: 10px; border-radius: 6px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);">
+
+  <p><strong>[2026.02]</strong> &nbsp;🚀🚀 Released <a href="https://github.com/ViktorAxelsen/MemSkill" target="_blank" rel="noopener noreferrer"><strong>MemSkill</strong></a>, a framework for learning and evolving memory skills for LLM agents. <strong>MemSkill</strong> shifts agent memory to span-level, skill-conditioned generation, enabling reusable and self-evolving memory behaviors through a closed-loop of skill usage and skill evolution. We hope MemSkill helps advance more adaptive, self-evolving agent memory systems and welcome feedback and contributions from the community!</p>
 
   <p><strong>[2025.12]</strong> &nbsp;🚀🚀 Open-sourced <a href="https://github.com/ulab-uiuc/LLMRouter" target="_blank" rel="noopener noreferrer"><strong>LLMRouter</strong></a>, a unified and extensible framework for training, evaluating, and benchmarking single-round, multi-round, agentic, and personalized LLM routers. <strong>LLMRouter</strong> is designed to reduce duplicated engineering effort, enable fair comparison across routing methods, and foster community-driven development. We warmly welcome contributions and integrations from the community!</p>
 
@@ -63,6 +65,12 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 
 ### **Preprints**
+
+
+- **MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents** <br>
+  <i>**Haozhen Zhang**, Quanyu Long, Jianzhu Bao, Tao Feng, Weizhi Zhang, Haodong Yue, and Wenya Wang</i> <br>
+  arXiv 2602.02474, 2026 <br>
+  <a href="https://arxiv.org/abs/2602.02474" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ViktorAxelsen/MemSkill" target="_blank" rel="noopener noreferrer">[Code]</a>
 
 
 - **FusionFactory: Fusing LLM Capabilities with Multi-LLM Log Data** <br>
@@ -148,7 +156,7 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
   A unified and extensible framework for training, evaluating, and benchmarking single-round, multi-round, agentic, and personalized LLM routers. LLMRouter aims to reduce duplicated engineering effort, enable fair comparison across routing methods, and foster community-driven development of LLM routing systems. <br>
   <a href="https://github.com/ulab-uiuc/LLMRouter" target="_blank" rel="noopener noreferrer">[GitHub]</a>&nbsp;&nbsp;&nbsp;<a href="https://ulab-uiuc.github.io/LLMRouter/" target="_blank" rel="noopener noreferrer">[Project Page]</a>
   &nbsp;&nbsp;&nbsp;
-  ⭐ <strong><span style="color:#d32f2f;">1K+ GitHub Stars</span></strong>
+  ⭐ <strong><span style="color:#d32f2f;">1.2K+ GitHub Stars</span></strong>
 
 
 
