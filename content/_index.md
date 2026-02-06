@@ -20,7 +20,7 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 
 🔍 Currently, I’m focusing on **LLM/Agent Memory** & **Routers** and their synergy with **Graphs**. Some of my recent works include: <a href="https://arxiv.org/abs/2410.11001" target="_blank" rel="noopener noreferrer">GoR@ACL'25 Main</a>
-, <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer">Router-R1@NeurIPS'25</a>, <a href="https://arxiv.org/abs/2507.10540" target="_blank" rel="noopener noreferrer">FusionFactory</a>, <a href="https://github.com/ulab-uiuc/LLMRouter" target="_blank" rel="noopener noreferrer">LLMRouter</a>, and <a href="https://arxiv.org/abs/2602.02474" target="_blank" rel="noopener noreferrer">MemSkill</a>.
+, <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer">Router-R1@NeurIPS'25</a>, <a href="https://arxiv.org/abs/2507.10540" target="_blank" rel="noopener noreferrer">FusionFactory</a>, <a href="https://github.com/ulab-uiuc/LLMRouter" target="_blank" rel="noopener noreferrer">LLMRouter</a>, <a href="https://arxiv.org/abs/2602.02474" target="_blank" rel="noopener noreferrer">MemSkill</a>, and <a href="https://arxiv.org/abs/2602.06025" target="_blank" rel="noopener noreferrer">BudgetMem</a>.
 
 
 
@@ -33,6 +33,8 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 
 <div style="max-height: 300px; overflow-y: auto; padding-right: 10px; border-left: 3px solid #f90; background-color: rgba(255, 255, 255, 0.7); padding: 10px; border-radius: 6px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);">
+
+  <p><strong>[2026.02]</strong> &nbsp;🚀🚀 Introducing <a href="https://github.com/ViktorAxelsen/BudgetMem" target="_blank" rel="noopener noreferrer"><strong>BudgetMem</strong></a>, a runtime agent memory framework for explicit performance–cost control. <strong>BudgetMem</strong> equips each memory module with Low/Mid/High budget tiers and learns query-aware budget-tier routing to deliver controllable on-demand memory extraction and clear performance–cost trade-offs. We hope BudgetMem supports future research on controllable runtime agent memory, and we welcome feedback and community contributions.</p>
 
   <p><strong>[2026.02]</strong> &nbsp;🚀🚀 Released <a href="https://github.com/ViktorAxelsen/MemSkill" target="_blank" rel="noopener noreferrer"><strong>MemSkill</strong></a>, a framework for learning and evolving memory skills for LLM agents. <strong>MemSkill</strong> shifts agent memory to span-level, skill-conditioned generation, enabling reusable and self-evolving memory behaviors through a closed-loop of skill usage and skill evolution. We hope MemSkill helps advance more adaptive, self-evolving agent memory systems and welcome feedback and contributions from the community!</p>
 
@@ -65,6 +67,12 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 
 ### **Preprints**
+
+
+- **Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory** <br>
+  <i>**Haozhen Zhang***, Haodong Yue*, Tao Feng, Quanyu Long, Jianzhu Bao, Bowen Jin, Weizhi Zhang, Xiao Li, Jiaxuan You, Chengwei Qin, and Wenya Wang</i> <br>
+  arXiv 2602.06025, 2026 <br>
+  <a href="https://arxiv.org/abs/2602.06025" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ViktorAxelsen/BudgetMem" target="_blank" rel="noopener noreferrer">[Code]</a>
 
 
 - **MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents** <br>
