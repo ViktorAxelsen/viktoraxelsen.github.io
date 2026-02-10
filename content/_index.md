@@ -69,6 +69,13 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 ### **Preprints**
 
 
+- **Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey** <br>
+  <i>Wei-Chieh Huang, Weizhi Zhang, Yueqing Liang, Yuanchen Bei, Yankai Chen, Tao Feng, Xinyu Pan, Zhen Tan, Yu Wang, Tianxin Wei, Shanglin Wu, Ruiyao Xu, Liangwei Yang, Rui Yang, Wooseong Yang, Chin-Yuan Yeh, Hanrong Zhang, **Haozhen Zhang**, Siqi Zhu, Henry Peng Zou, Wanjia Zhao, Song Wang, Wujiang Xu, Zixuan Ke, Zheng Hui, Dawei Li, Yaozu Wu, Langzhou He, Chen Wang, Xiongxiao Xu, Baixiang Huang, Juntao Tan, Shelby Heinecke, Huan Wang, Caiming Xiong, Ahmed A. Metwally, Jun Yan, Chen-Yu Lee, Hanqing Zeng, Yinglong Xia, Xiaokai Wei, Ali Payani, Yu Wang, Haitong Ma, Wenya Wang, Chengguang Wang, Yu Zhang, Xin Wang, Yongfeng Zhang, Jiaxuan You, Hanghang Tong, Xiao Luo, Xue Liu, Yizhou Sun, Wei Wang, Julian McAuley, James Zou, Jiawei Han, Philip S. Yu, and Kai Shu</i> <br>
+  arXiv 2602.06052, 2026 <br>
+  <a href="https://arxiv.org/abs/2602.06052" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AgentMemoryWorld/Awesome-Agent-Memory" target="_blank" rel="noopener noreferrer">[Code]</a>
+
+
+
 - **Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory** <br>
   <i>**Haozhen Zhang***, Haodong Yue*, Tao Feng, Quanyu Long, Jianzhu Bao, Bowen Jin, Weizhi Zhang, Xiao Li, Jiaxuan You, Chengwei Qin, and Wenya Wang</i> <br>
   arXiv 2602.06025, 2026 <br>
@@ -164,7 +171,7 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
   A unified and extensible framework for training, evaluating, and benchmarking single-round, multi-round, agentic, and personalized LLM routers. LLMRouter aims to reduce duplicated engineering effort, enable fair comparison across routing methods, and foster community-driven development of LLM routing systems. <br>
   <a href="https://github.com/ulab-uiuc/LLMRouter" target="_blank" rel="noopener noreferrer">[GitHub]</a>&nbsp;&nbsp;&nbsp;<a href="https://ulab-uiuc.github.io/LLMRouter/" target="_blank" rel="noopener noreferrer">[Project Page]</a>
   &nbsp;&nbsp;&nbsp;
-  ⭐ <strong><span style="color:#d32f2f;">1.2K+ GitHub Stars</span></strong>
+  ⭐ <strong><span style="color:#d32f2f;">1.3K+ GitHub Stars</span></strong>
 
 
 
