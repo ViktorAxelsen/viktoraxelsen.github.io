@@ -86,6 +86,8 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
   <i>**Haozhen Zhang**, Quanyu Long, Jianzhu Bao, Tao Feng, Weizhi Zhang, Haodong Yue, and Wenya Wang</i> <br>
   arXiv 2602.02474, 2026 <br>
   <a href="https://arxiv.org/abs/2602.02474" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ViktorAxelsen/MemSkill" target="_blank" rel="noopener noreferrer">[Code]</a>
+  &nbsp;&nbsp;&nbsp;
+  ⭐ <strong><span style="color:#d32f2f;">200+ GitHub Stars</span></strong>
 
 
 - **FusionFactory: Fusing LLM Capabilities with Multi-LLM Log Data** <br>
@@ -108,12 +110,19 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 ### **Conference**
 
 
+- **GraphPlanner: Graph Memory-Augmented Agentic Routing for Multi-Agent LLMs** <br>
+  <i>Tao Feng, **Haozhen Zhang**, Zijie Lei, Peixuan Han, and Jiaxuan You</i> <br>
+  The International Conference on Learning Representations (**ICLR**), 2026 <br>
+  <a href="https://arxiv.org/abs/x" target="_blank" rel="noopener noreferrer">[arXiv-TBD]</a>&nbsp;&nbsp;&nbsp;<a href="x" target="_blank" rel="noopener noreferrer">[Code-TBD]</a>
+
+
 - **Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning** <br>
   <i>**Haozhen Zhang**, Tao Feng, and Jiaxuan You</i> <br>
   The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025 <br>
   <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ulab-uiuc/Router-R1" target="_blank" rel="noopener noreferrer">[Code]</a>
   &nbsp;&nbsp;&nbsp;
   ⭐ <strong><span style="color:#d32f2f;">100+ GitHub Stars</span></strong>
+
 
 - **Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs** <br>
   <i>**Haozhen Zhang**, Tao Feng, and Jiaxuan You</i> <br>
@@ -171,7 +180,7 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
   A unified and extensible framework for training, evaluating, and benchmarking single-round, multi-round, agentic, and personalized LLM routers. LLMRouter aims to reduce duplicated engineering effort, enable fair comparison across routing methods, and foster community-driven development of LLM routing systems. <br>
   <a href="https://github.com/ulab-uiuc/LLMRouter" target="_blank" rel="noopener noreferrer">[GitHub]</a>&nbsp;&nbsp;&nbsp;<a href="https://ulab-uiuc.github.io/LLMRouter/" target="_blank" rel="noopener noreferrer">[Project Page]</a>
   &nbsp;&nbsp;&nbsp;
-  ⭐ <strong><span style="color:#d32f2f;">1.3K+ GitHub Stars</span></strong>
+  ⭐ <strong><span style="color:#d32f2f;">1.5K+ GitHub Stars</span></strong>
 
 
 
