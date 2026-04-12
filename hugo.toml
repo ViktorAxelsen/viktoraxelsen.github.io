@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
 
     [languages.en.params]
       author = "Haozhen Zhang"
-      description = "CS Ph.D. student at Nanyang Technological University (NTU) <br><br> Focusing on **LLM/Agent Memory** & **Routers** and their synergy with **Graphs**"
+      description = "CS Ph.D. student at Nanyang Technological University (NTU) <br><br> Focusing on **experience-driven evolution** in long-horizon agentic systems"
       motto = "**Done is better than perfect**"
     
     [[languages.en.menu.main]]

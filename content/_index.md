@@ -19,8 +19,8 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 
 
-🔍 Currently, I’m focusing on **LLM/Agent Memory** & **Routers** and their synergy with **Graphs**. Some of my recent works include: <a href="https://arxiv.org/abs/2410.11001" target="_blank" rel="noopener noreferrer">GoR@ACL'25 Main</a>
-, <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer">Router-R1@NeurIPS'25</a>, <a href="https://arxiv.org/abs/2507.10540" target="_blank" rel="noopener noreferrer">FusionFactory</a>, <a href="https://github.com/ulab-uiuc/LLMRouter" target="_blank" rel="noopener noreferrer">LLMRouter</a>, <a href="https://arxiv.org/abs/2602.02474" target="_blank" rel="noopener noreferrer">MemSkill</a>, and <a href="https://arxiv.org/abs/2602.06025" target="_blank" rel="noopener noreferrer">BudgetMem</a>.
+🔍 Currently, my research focuses on **memory and experience for long-horizon agentic systems**, studying how agents can accumulate, organize, and evolve knowledge over time. I am particularly interested in how such experience can be effectively structured and utilized, and how this process can be supported by **adaptive mechanisms** and **structured representations**. Some of my recent works include: <a href="https://arxiv.org/abs/2410.11001" target="_blank" rel="noopener noreferrer">GoR@ACL'25 Main</a>
+, <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer">Router-R1@NeurIPS'25</a>, <a href="https://github.com/ulab-uiuc/LLMRouter" target="_blank" rel="noopener noreferrer">LLMRouter</a>, <a href="https://openreview.net/pdf?id=ZdGB7MNQDT" target="_blank" rel="noopener noreferrer">GraphPlanner@ICLR'26</a>, <a href="https://arxiv.org/abs/2602.02474" target="_blank" rel="noopener noreferrer">MemSkill</a>, and <a href="https://arxiv.org/abs/2602.06025" target="_blank" rel="noopener noreferrer">BudgetMem</a>.
 
 
 
@@ -34,9 +34,13 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 <div style="max-height: 300px; overflow-y: auto; padding-right: 10px; border-left: 3px solid #f90; background-color: rgba(255, 255, 255, 0.7); padding: 10px; border-radius: 6px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);">
 
+  <p><strong>[2026.04]</strong> &nbsp;🎉🎉 One paper (<a href="TBD" target="_blank" rel="noopener noreferrer"><strong>ChartCF</strong></a>) was accepted by <strong>ACL 2026 Main</strong>.</p>
+
   <p><strong>[2026.02]</strong> &nbsp;🚀🚀 Introducing <a href="https://github.com/ViktorAxelsen/BudgetMem" target="_blank" rel="noopener noreferrer"><strong>BudgetMem</strong></a>, a runtime agent memory framework for explicit performance–cost control. <strong>BudgetMem</strong> equips each memory module with Low/Mid/High budget tiers and learns query-aware budget-tier routing to deliver controllable on-demand memory extraction and clear performance–cost trade-offs. We hope BudgetMem supports future research on controllable runtime agent memory, and we welcome feedback and community contributions.</p>
 
   <p><strong>[2026.02]</strong> &nbsp;🚀🚀 Released <a href="https://github.com/ViktorAxelsen/MemSkill" target="_blank" rel="noopener noreferrer"><strong>MemSkill</strong></a>, a framework for learning and evolving memory skills for LLM agents. <strong>MemSkill</strong> shifts agent memory to span-level, skill-conditioned generation, enabling reusable and self-evolving memory behaviors through a closed-loop of skill usage and skill evolution. We hope MemSkill helps advance more adaptive, self-evolving agent memory systems and welcome feedback and contributions from the community!</p>
+
+  <p><strong>[2026.01]</strong> &nbsp;🎉🎉 One paper (<a href="https://openreview.net/pdf?id=ZdGB7MNQDT" target="_blank" rel="noopener noreferrer"><strong>GraphPlanner</strong></a>) was accepted by <strong>ICLR 2026</strong>.</p>
 
   <p><strong>[2025.12]</strong> &nbsp;🚀🚀 Open-sourced <a href="https://github.com/ulab-uiuc/LLMRouter" target="_blank" rel="noopener noreferrer"><strong>LLMRouter</strong></a>, a unified and extensible framework for training, evaluating, and benchmarking single-round, multi-round, agentic, and personalized LLM routers. <strong>LLMRouter</strong> is designed to reduce duplicated engineering effort, enable fair comparison across routing methods, and foster community-driven development. We warmly welcome contributions and integrations from the community!</p>
 
@@ -87,7 +91,7 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
   arXiv 2602.02474, 2026 <br>
   <a href="https://arxiv.org/abs/2602.02474" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ViktorAxelsen/MemSkill" target="_blank" rel="noopener noreferrer">[Code]</a>
   &nbsp;&nbsp;&nbsp;
-  ⭐ <strong><span style="color:#d32f2f;">200+ GitHub Stars</span></strong>
+  ⭐ <strong><span style="color:#d32f2f;">400+ GitHub Stars</span></strong>
 
 
 - **FusionFactory: Fusing LLM Capabilities with Multi-LLM Log Data** <br>
@@ -109,11 +113,16 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 ### **Conference**
 
+- **Learning More from Less: Exploiting Counterfactuals for Data-Efficient Chart Understanding** <br>
+  <i>Jianzhu Bao, **Haozhen Zhang**, Kuicai Dong, Bozhi Wu, Sarthak Ketanbhai Modi, Zi Pong Lim, Yon Shin Teo, and Wenya Wang</i> <br>
+  The 64th Annual Meeting of the Association for Computational Linguistics (**ACL** Main), 2026 <br>
+  <a href="TBD" target="_blank" rel="noopener noreferrer">[arXiv-TBD]</a>&nbsp;&nbsp;&nbsp;<a href="TBD" target="_blank" rel="noopener noreferrer">[Code-TBD]</a>
+
 
 - **GraphPlanner: Graph Memory-Augmented Agentic Routing for Multi-Agent LLMs** <br>
   <i>Tao Feng, **Haozhen Zhang**, Zijie Lei, Peixuan Han, and Jiaxuan You</i> <br>
   The International Conference on Learning Representations (**ICLR**), 2026 <br>
-  <a href="https://arxiv.org/abs/x" target="_blank" rel="noopener noreferrer">[arXiv-TBD]</a>&nbsp;&nbsp;&nbsp;<a href="x" target="_blank" rel="noopener noreferrer">[Code-TBD]</a>
+  <a href="https://openreview.net/pdf?id=ZdGB7MNQDT" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="TBD" target="_blank" rel="noopener noreferrer">[Code-TBD]</a>
 
 
 - **Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning** <br>
@@ -180,7 +189,7 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
   A unified and extensible framework for training, evaluating, and benchmarking single-round, multi-round, agentic, and personalized LLM routers. LLMRouter aims to reduce duplicated engineering effort, enable fair comparison across routing methods, and foster community-driven development of LLM routing systems. <br>
   <a href="https://github.com/ulab-uiuc/LLMRouter" target="_blank" rel="noopener noreferrer">[GitHub]</a>&nbsp;&nbsp;&nbsp;<a href="https://ulab-uiuc.github.io/LLMRouter/" target="_blank" rel="noopener noreferrer">[Project Page]</a>
   &nbsp;&nbsp;&nbsp;
-  ⭐ <strong><span style="color:#d32f2f;">1.5K+ GitHub Stars</span></strong>
+  ⭐ <strong><span style="color:#d32f2f;">1.6K+ GitHub Stars</span></strong>
 
 
 
@@ -221,9 +230,10 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 # 🎯 **Miscellaneous** {#miscell}
 
-I really enjoy playing badminton🏸! I was on the university or departmental team during both undergrad and grad school.
 
-I also trained in table tennis🏓 as a kid — though it's been quite a few years since I last picked up a paddle...😅
+**I really enjoy playing badminton🏸!** I was on the university or departmental badminton team during both undergrad and grad school. (BTW, I strongly prefer singles over doubles, and my all-time favorite racket is the old-generation Yonex NS9900 😎)
+
+I also trained in table tennis🏓 as a kid, though it's been quite a few years since I last picked up a paddle...😅
 
 
 # ✉️ **Contact** {#contact}
