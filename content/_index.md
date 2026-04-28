@@ -20,7 +20,7 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 
 🔍 Currently, my research focuses on **memory and experience for long-horizon agentic systems**, studying how agents can accumulate, organize, and evolve knowledge over time. I am particularly interested in how such experience can be effectively structured and utilized, and how this process can be supported by **adaptive mechanisms** and **structured representations**. Some of my recent works include: <a href="https://arxiv.org/abs/2410.11001" target="_blank" rel="noopener noreferrer">GoR@ACL'25 Main</a>
-, <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer">Router-R1@NeurIPS'25</a>, <a href="https://github.com/ulab-uiuc/LLMRouter" target="_blank" rel="noopener noreferrer">LLMRouter</a>, <a href="https://openreview.net/pdf?id=ZdGB7MNQDT" target="_blank" rel="noopener noreferrer">GraphPlanner@ICLR'26</a>, <a href="https://arxiv.org/abs/2602.02474" target="_blank" rel="noopener noreferrer">MemSkill</a>, and <a href="https://arxiv.org/abs/2602.06025" target="_blank" rel="noopener noreferrer">BudgetMem</a>.
+, <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer">Router-R1@NeurIPS'25</a>, <a href="https://github.com/ulab-uiuc/LLMRouter" target="_blank" rel="noopener noreferrer">LLMRouter</a>, <a href="https://arxiv.org/abs/2604.23626v1" target="_blank" rel="noopener noreferrer">GraphPlanner@ICLR'26</a>, <a href="https://arxiv.org/abs/2602.02474" target="_blank" rel="noopener noreferrer">MemSkill</a>, and <a href="https://arxiv.org/abs/2602.06025" target="_blank" rel="noopener noreferrer">BudgetMem</a>.
 
 
 
@@ -40,7 +40,7 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
   <p><strong>[2026.02]</strong> &nbsp;🚀🚀 Released <a href="https://github.com/ViktorAxelsen/MemSkill" target="_blank" rel="noopener noreferrer"><strong>MemSkill</strong></a>, a framework for learning and evolving memory skills for LLM agents. <strong>MemSkill</strong> shifts agent memory to span-level, skill-conditioned generation, enabling reusable and self-evolving memory behaviors through a closed-loop of skill usage and skill evolution. We hope MemSkill helps advance more adaptive, self-evolving agent memory systems and welcome feedback and contributions from the community!</p>
 
-  <p><strong>[2026.01]</strong> &nbsp;🎉🎉 One paper (<a href="https://openreview.net/pdf?id=ZdGB7MNQDT" target="_blank" rel="noopener noreferrer"><strong>GraphPlanner</strong></a>) was accepted by <strong>ICLR 2026</strong>.</p>
+  <p><strong>[2026.01]</strong> &nbsp;🎉🎉 One paper (<a href="https://arxiv.org/abs/2604.23626v1" target="_blank" rel="noopener noreferrer"><strong>GraphPlanner</strong></a>) was accepted by <strong>ICLR 2026</strong>.</p>
 
   <p><strong>[2025.12]</strong> &nbsp;🚀🚀 Open-sourced <a href="https://github.com/ulab-uiuc/LLMRouter" target="_blank" rel="noopener noreferrer"><strong>LLMRouter</strong></a>, a unified and extensible framework for training, evaluating, and benchmarking single-round, multi-round, agentic, and personalized LLM routers. <strong>LLMRouter</strong> is designed to reduce duplicated engineering effort, enable fair comparison across routing methods, and foster community-driven development. We warmly welcome contributions and integrations from the community!</p>
 
@@ -122,7 +122,7 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 - **GraphPlanner: Graph Memory-Augmented Agentic Routing for Multi-Agent LLMs** <br>
   <i>Tao Feng, **Haozhen Zhang**, Zijie Lei, Peixuan Han, and Jiaxuan You</i> <br>
   The International Conference on Learning Representations (**ICLR**), 2026 <br>
-  <a href="https://openreview.net/pdf?id=ZdGB7MNQDT" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="TBD" target="_blank" rel="noopener noreferrer">[Code-TBD]</a>
+  <a href="https://arxiv.org/abs/2604.23626v1" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ulab-uiuc/GraphPlanner" target="_blank" rel="noopener noreferrer">[Code]</a>
 
 
 - **Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning** <br>
