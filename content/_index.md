@@ -20,7 +20,7 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 
 🔍 Currently, my research focuses on **memory and experience for long-horizon agentic systems**, studying how agents can accumulate, organize, and evolve knowledge over time. I am particularly interested in how such experience can be effectively structured and utilized, and how this process can be supported by **adaptive mechanisms** and **structured representations**. Some of my recent works include: <a href="https://arxiv.org/abs/2410.11001" target="_blank" rel="noopener noreferrer">GoR@ACL'25 Main</a>
-, <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer">Router-R1@NeurIPS'25</a>, <a href="https://github.com/ulab-uiuc/LLMRouter" target="_blank" rel="noopener noreferrer">LLMRouter</a>, <a href="https://arxiv.org/abs/2604.23626v1" target="_blank" rel="noopener noreferrer">GraphPlanner@ICLR'26</a>, <a href="https://arxiv.org/abs/2602.02474" target="_blank" rel="noopener noreferrer">MemSkill</a>, and <a href="https://arxiv.org/abs/2602.06025" target="_blank" rel="noopener noreferrer">BudgetMem</a>.
+, <a href="https://arxiv.org/abs/2506.09033" target="_blank" rel="noopener noreferrer">Router-R1@NeurIPS'25</a>, <a href="https://github.com/ulab-uiuc/LLMRouter" target="_blank" rel="noopener noreferrer">LLMRouter</a>, <a href="https://arxiv.org/abs/2604.23626v1" target="_blank" rel="noopener noreferrer">GraphPlanner@ICLR'26</a>, <a href="https://arxiv.org/abs/2602.02474" target="_blank" rel="noopener noreferrer">MemSkill</a>, and <a href="https://arxiv.org/abs/2602.06025" target="_blank" rel="noopener noreferrer">BudgetMem@ICML'26</a>.
 
 
 
@@ -34,7 +34,9 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 <div style="max-height: 300px; overflow-y: auto; padding-right: 10px; border-left: 3px solid #f90; background-color: rgba(255, 255, 255, 0.7); padding: 10px; border-radius: 6px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);">
 
-  <p><strong>[2026.04]</strong> &nbsp;🎉🎉 One paper (<a href="TBD" target="_blank" rel="noopener noreferrer"><strong>ChartCF</strong></a>) was accepted by <strong>ACL 2026 Main</strong>.</p>
+  <p><strong>[2026.05]</strong> &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2602.06025" target="_blank" rel="noopener noreferrer"><strong>BudgetMem</strong></a> was accepted by <strong>ICML 2026</strong>. See you in Seoul!</p>
+  
+  <p><strong>[2026.04]</strong> &nbsp;🎉🎉 One paper (<a href="https://arxiv.org/abs/2605.10855" target="_blank" rel="noopener noreferrer"><strong>ChartCF</strong></a>) was accepted by <strong>ACL 2026 Main</strong>.</p>
 
   <p><strong>[2026.02]</strong> &nbsp;🚀🚀 Introducing <a href="https://github.com/ViktorAxelsen/BudgetMem" target="_blank" rel="noopener noreferrer"><strong>BudgetMem</strong></a>, a runtime agent memory framework for explicit performance–cost control. <strong>BudgetMem</strong> equips each memory module with Low/Mid/High budget tiers and learns query-aware budget-tier routing to deliver controllable on-demand memory extraction and clear performance–cost trade-offs. We hope BudgetMem supports future research on controllable runtime agent memory, and we welcome feedback and community contributions.</p>
 
@@ -79,13 +81,6 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
   <a href="https://arxiv.org/abs/2602.06052" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/AgentMemoryWorld/Awesome-Agent-Memory" target="_blank" rel="noopener noreferrer">[Code]</a>
 
 
-
-- **Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory** <br>
-  <i>**Haozhen Zhang***, Haodong Yue*, Tao Feng, Quanyu Long, Jianzhu Bao, Bowen Jin, Weizhi Zhang, Xiao Li, Jiaxuan You, Chengwei Qin, and Wenya Wang</i> <br>
-  arXiv 2602.06025, 2026 <br>
-  <a href="https://arxiv.org/abs/2602.06025" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ViktorAxelsen/BudgetMem" target="_blank" rel="noopener noreferrer">[Code]</a>
-
-
 - **MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents** <br>
   <i>**Haozhen Zhang**, Quanyu Long, Jianzhu Bao, Tao Feng, Weizhi Zhang, Haodong Yue, and Wenya Wang</i> <br>
   arXiv 2602.02474, 2026 <br>
@@ -113,10 +108,16 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 ### **Conference**
 
+- **Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory** <br>
+  <i>**Haozhen Zhang***, Haodong Yue*, Tao Feng, Quanyu Long, Jianzhu Bao, Bowen Jin, Weizhi Zhang, Xiao Li, Jiaxuan You, Chengwei Qin, and Wenya Wang</i> <br>
+  Forty-Third International Conference on Machine Learning (**ICML**), 2026 <br>
+  <a href="https://arxiv.org/abs/2602.06025" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ViktorAxelsen/BudgetMem" target="_blank" rel="noopener noreferrer">[Code]</a>
+
+
 - **Learning More from Less: Exploiting Counterfactuals for Data-Efficient Chart Understanding** <br>
   <i>Jianzhu Bao, **Haozhen Zhang**, Kuicai Dong, Bozhi Wu, Sarthak Ketanbhai Modi, Zi Pong Lim, Yon Shin Teo, and Wenya Wang</i> <br>
   The 64th Annual Meeting of the Association for Computational Linguistics (**ACL** Main), 2026 <br>
-  <a href="TBD" target="_blank" rel="noopener noreferrer">[arXiv-TBD]</a>&nbsp;&nbsp;&nbsp;<a href="TBD" target="_blank" rel="noopener noreferrer">[Code-TBD]</a>
+  <a href="https://arxiv.org/abs/2605.10855" target="_blank" rel="noopener noreferrer">[arXiv]</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jianzhubao/ChartCF" target="_blank" rel="noopener noreferrer">[Code]</a>
 
 
 - **GraphPlanner: Graph Memory-Augmented Agentic Routing for Multi-Agent LLMs** <br>
@@ -189,7 +190,7 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
   A unified and extensible framework for training, evaluating, and benchmarking single-round, multi-round, agentic, and personalized LLM routers. LLMRouter aims to reduce duplicated engineering effort, enable fair comparison across routing methods, and foster community-driven development of LLM routing systems. <br>
   <a href="https://github.com/ulab-uiuc/LLMRouter" target="_blank" rel="noopener noreferrer">[GitHub]</a>&nbsp;&nbsp;&nbsp;<a href="https://ulab-uiuc.github.io/LLMRouter/" target="_blank" rel="noopener noreferrer">[Project Page]</a>
   &nbsp;&nbsp;&nbsp;
-  ⭐ <strong><span style="color:#d32f2f;">1.6K+ GitHub Stars</span></strong>
+  ⭐ <strong><span style="color:#d32f2f;">1.8K+ GitHub Stars</span></strong>
 
 
 
@@ -219,13 +220,9 @@ In addition, I spent over a year as a research intern at Microsoft Research Asia
 
 # 🤝 **Professional Service** {#service}
 
-- Reviewer:
+- Reviewer
 
-  + AAAI 2026
-
-  + NeurIPs 2025
-
-  + KDD 2024, ICLR 2024
+  + AAAI, KDD, ICLR, NeurIPS, ICML
 
 
 # 🎯 **Miscellaneous** {#miscell}
